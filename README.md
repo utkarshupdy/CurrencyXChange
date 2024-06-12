@@ -10,7 +10,7 @@ The Currency Converter is a React-based web application designed to provide user
 5-Modern UI: Clean and intuitive interface using Tailwind CSS for styling.
 6-Background Image: A full-screen background image that enhances the visual appeal of the application.
 # Screenshot
-# FOR REVIEW OF THIS PROJECTB , KINDLY VISIT './currency_converter.png' of this same project 
+ FOR REVIEW OF THIS PROJECT , KINDLY VISIT './currency_converter.png' of this same project 
 
 # Technologies Used
 1-React: A JavaScript library for building user interfaces.
